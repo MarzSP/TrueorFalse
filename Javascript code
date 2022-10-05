@@ -1,0 +1,8 @@
+function trueOrFalse(isthattrue) 
+if (isthattrue) {
+  return "Yes, that was true";
+}
+return "No, that was false"
+
+}
+
